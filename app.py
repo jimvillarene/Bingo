@@ -72,11 +72,11 @@ st.markdown(f"""
 # --- LÓGICA DE CONTENIDO ---
 RETOS = [
     "Estar sin calzones en Público", 
-    "Terminar desnuda en una fiesta", 
+    "Flashear una bubi o puchi", 
     "Que alguien te manosee",
     "Estar encuerada o en calzones en el coche", 
     "Sexo o chupada en el coche", 
-    "Flashear una bubi o puchi",
+    "Terminar desnuda en una fiesta",
     "Ida al hotel", 
     "Un trío", 
     "Que alguien se venga en tu boca o bubis"
