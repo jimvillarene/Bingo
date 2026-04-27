@@ -107,7 +107,7 @@ st.markdown("""
     <div style='background-color: #fce4ec; padding: 15px; border-radius: 10px; border-left: 5px solid #E6B0E0; margin-bottom: 25px;'>
         <p style='margin: 0; color: #4B4059; font-size: 0.95rem;'>
             <strong>¿Cómo jugar?</strong><br>
-            ¿Así que saliste de fiesta solita? Pues aún puedes hacer muy feliz a tu marido, cumple los retos de abajo y sube una foto que demuestre que lo hiciste. Si haces una línea te toca un regalo, si llenas todas y subes un video !Puedes pedir lo que quieras! 😈
+            ¿Así que saliste de fiesta solita? Pues aún puedes hacer muy feliz a tu marido, cumple los retos de abajo y sube una foto que demuestre que lo hiciste. Si haces una línea te toca un regalo, si llenas todas !Puedes pedir lo que quieras! 😈
         </p>
     </div>
 """, unsafe_allow_html=True)
